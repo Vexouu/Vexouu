@@ -1,6 +1,6 @@
 - 👋 Salut c'est @Vexouu
 - 👀 Vive le dev 
-- 🌱 J'aprend actuellement le C/Java/JavaScript/HTML5/CSS/Python/SQL/and more...
+- 🌱 J'aprend actuellement le C/Java/JavaScript/HTML5/CSS/Python/SQL/Xml and more...
 - 📫 Vous pouvez me contacter via Discord: Vexouu#8588 / Twitter : @Vexouu 
 
 <!---
